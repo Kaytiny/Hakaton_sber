@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: feature-agent
+Version: 0.1.0
+Requires-Python: >=3.10
+Requires-Dist: gigachat>=0.1.39
+Requires-Dist: catboost>=1.2
+Requires-Dist: pandas>=2.0
+Requires-Dist: numpy>=1.24
+Requires-Dist: scikit-learn>=1.3
+Requires-Dist: python-dotenv>=1.0
+Requires-Dist: shap>=0.44
